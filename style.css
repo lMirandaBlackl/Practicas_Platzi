@@ -1,0 +1,224 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+          
+}
+body{
+    background: linear-gradient(-90deg, #00d2ff 0%, #3a47d5 100%);
+    
+ 
+}
+main{
+    padding: 20px 50vh 40px 50vh;
+    display:inline-block;
+    margin: 20px auto;
+    
+    
+   
+}
+.Contenedor{
+    background-color: rgb(240, 240, 240);
+    width: 450px;
+    height: 335px;
+    position: relative;
+    border-radius: 5%;
+    top: 40px;
+    box-shadow: 0 8px 8px rgba(87, 122, 140, 0.15);
+    padding-left: 5%;
+    padding-right: 5%;
+    align-items: center;
+    display: inline-block;
+       
+}
+.circle_blue{
+background-color: #2E69FF;
+border-radius: 100%;
+width: 150px;
+height: 150px;
+position: relative;
+top: -3rem;
+margin: 0px auto;
+padding: 5px;
+border-style: solid;
+border-color: #E6E6E6;
+border-width: 0.4rem;
+display: block;
+
+}
+.imgg{
+    position: relative;
+    width: 60%;
+    height: 60%;
+    margin: 25px;
+}
+.text1{
+    font-weight:bolder;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif; 
+    color: rgb(76, 77, 82);
+    text-align: center;
+    position: relative;
+    top: -10px;
+}
+
+.refor{
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(39, 59, 132);
+    position: relative;
+    font-family: 'Source Sans Pro', sans-serif; 
+    left: 2rem;
+    transform:translateX(50%);
+    display:inline-block;
+    margin-top: -25px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.Descargar_Button {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    width: 175px;
+    height: 35px; 
+    text-decoration: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 4px;
+    text-align:start;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+    color: #fff;
+    background-color: rgb(39, 59, 132);
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    left: 50%;
+    bottom: -1rem;
+    transform: translateX(-50%);
+    display: inline-block;      
+    position: relative;
+}
+
+
+
+.Descargar_Button:hover{
+    background-color: #2E69FF;
+    box-shadow: 0px 10px 10px rgba(3, 163, 238, 0.73);
+    color: #fff;
+    transform: translateX(-50%);
+    left: 50%;
+    display: inline-block;      
+    position: relative;
+
+
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+/*.Descargar_Button {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color: rgb(251, 252, 245);
+    background : #2E69FF;
+    border-radius : 25px;
+    border: none;
+    position: relative;
+    width: 130px;
+    height: 35px; 
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    top: 1.2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-top: 4px;
+    
+}*/
+
+
+
+
+
+/*.Descargar_Button:hover {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color: rgb(251, 252, 245);
+    background : #5e5e5e;
+    border-radius : 25px;
+    border: none;  
+    display: inline-block;
+    transition: 1.5;
+}
+/*
+
+
+
+
+/*asdasdas
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #8254EA 0%, #E86DEC 100%);
+}
+
+.btn {
+  width: 140px;
+  height: 45px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  }
+
+.btn:hover {
+  background-color: #ff5722;
+      box-shadow: 0px 15px 20px rgba(119, 29, 0, 0.73);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
